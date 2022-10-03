@@ -34,16 +34,17 @@ body {
 	background: #FFFFFF;
 	margin: 0px;
 	float: left;
+	padding: 5;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 }
 .footer {
 	background: #D6F3FF;
 	margin: 0px;
 	float: left;
-	padding: 5;
 	width: 100%;
-	text-align: left;
+	height: 50px;
+	text-align: center;
 }
 
 a:link {
